@@ -1,0 +1,27 @@
+﻿
+Partea I
+1. Definirea claselor necesare aplicației - done
+2. Macheta pentru introducerea / actualizarea și ștergerea datelor (cel puțin pentru trei clase) - done
+3. Validarea datelor (ErrorProvider control, Validating/Validated events, standard exceptions, custom exceptions) - done
+4. Acces la câmpuri prin acceleratori, interceptând tastatura - done
+5. Implementare serializare / deserializare - done
+6. Export date în format *csv (sau *txt)  - done text
+7. Dezvoltarea unei interfeţe care să includă următoarele tipuri de meniuri: MenuStrip, 
+ToolStrip, StatusStrip, ContextMenuStrip - done
+
+Partea II
+8. Reprezentare grafică a unor informații relevante pentru aplicația voastră utilizând 
+clasa System.Drawing.Graphics. Nu utilizați un control de tip chart existent, cum ar fi
+cel disponibil în ToolBox (scopul este să creați singuri un astfel de control). Controlul 
+ar trebui să fie diferit de cele disponibile pe http://github.com/liviucotfas (discutate 
+în timpul cursului / în timpul laboratoarelor). Puteți verifica chart-urile disponibile 
+în Microsoft Excel pentru inspirație. - done
+9. Posibilitate imprimare document cu mai multe pagini si previzualizare (PrintPreview) - done
+10. Implementare Drag & Drop și lucru cu Clipboard - done
+
+Partea III
+11. Stocarea și regăsirea datelor într-o bază de date pentru cel puțin două clase din aplicația 
+voastră. Se vor implementa toate cele patru tipuri de operații: SELECT, UPDATE, INSERT, DELETE.
+12. Implementați un UserControl într-un proiect separat (astfel încât să poată fi distribuit 
+altor dezvoltatori) și utilizați-l în aplicația dvs. UserControl ar trebui să ofere o 
+funcționalitate utilă pentru aplicația voastră (nu preluați un usercontrol de tip ceas de pe internet ;) ) - done

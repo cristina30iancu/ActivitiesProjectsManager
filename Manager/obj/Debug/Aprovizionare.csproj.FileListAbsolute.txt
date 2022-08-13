@@ -1,0 +1,17 @@
+C:\Users\EU\source\repos\Aprovizionare\Aprovizionare\bin\Debug\Aprovizionare.exe.config
+C:\Users\EU\source\repos\Aprovizionare\Aprovizionare\bin\Debug\Aprovizionare.exe
+C:\Users\EU\source\repos\Aprovizionare\Aprovizionare\bin\Debug\Aprovizionare.pdb
+C:\Users\EU\source\repos\Aprovizionare\Aprovizionare\obj\Debug\Aprovizionare.csprojAssemblyReference.cache
+C:\Users\EU\source\repos\Aprovizionare\Aprovizionare\obj\Debug\Aprovizionare.Properties.Resources.resources
+C:\Users\EU\source\repos\Aprovizionare\Aprovizionare\obj\Debug\Aprovizionare.csproj.GenerateResource.cache
+C:\Users\EU\source\repos\Aprovizionare\Aprovizionare\obj\Debug\Aprovizionare.csproj.CoreCompileInputs.cache
+C:\Users\EU\source\repos\Aprovizionare\Aprovizionare\obj\Debug\Aprovizionare.exe
+C:\Users\EU\source\repos\Aprovizionare\Aprovizionare\obj\Debug\Aprovizionare.pdb
+C:\Users\EU\source\repos\Aprovizionare\Aprovizionare\obj\Debug\ManagerProiecte.AddActivitate.resources
+C:\Users\EU\source\repos\Aprovizionare\Aprovizionare\obj\Debug\ManagerProiecte.AddDomeniu.resources
+C:\Users\EU\source\repos\Aprovizionare\Aprovizionare\obj\Debug\ManagerProiecte.AddProiect.resources
+C:\Users\EU\source\repos\Aprovizionare\Aprovizionare\obj\Debug\ManagerProiecte.Grafic.resources
+C:\Users\EU\source\repos\Aprovizionare\Aprovizionare\obj\Debug\ManagerProiecte.Main.resources
+C:\Users\EU\source\repos\Aprovizionare\Aprovizionare\obj\Debug\ManagerProiecte.VizualizareActivitati.resources
+C:\Users\EU\source\repos\Aprovizionare\Aprovizionare\obj\Debug\ManagerProiecte.FormDomenii.resources
+C:\Users\EU\source\repos\Aprovizionare\Aprovizionare\obj\Debug\ManagerProiecte.FormProiecte.resources
